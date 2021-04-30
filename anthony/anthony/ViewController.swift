@@ -12,7 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        print("branch name - master")
+        print("branch name - feature")
         // Do any additional setup after loading the view.
     }
 
